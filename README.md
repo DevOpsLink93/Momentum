@@ -1,2 +1,5 @@
-"# momentum" 
-Currently in Development 
+"# Momentum" 
+Your Daily Task Tracker input.
+
+
+Early stage Development 
